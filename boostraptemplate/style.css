@@ -1,0 +1,56 @@
+/* #slider{
+    margin-top:60px;
+
+}
+#slider .item{
+height:20px;
+}
+#slide1{
+    background:url('C:\Users\gnitc\Desktop\boostraptemplate\images\lavanya.jpg');
+}
+#slide2{
+    background:url('C:\Users\gnitc\Desktop\boostraptemplate\images\ramoji.jpg');
+}
+#slide3{
+    background:url('C:\Users\gnitc\Desktop\boostraptemplate\images\charminar.jpg');
+}
+.carsouel-caption{
+    font-size:39px;
+} */
+/* .navbar{
+    background-color: orange!important;
+}
+#container div{
+ position: relative;
+ width: 100%;
+ height:100%;
+}
+
+#container div #green{
+    background:green;
+   }
+   #container div #red{
+    background:red;
+   }
+   #container div #yellow{
+    background:yellow;
+   }
+   #container div #pink{
+    background:pink;
+   } */
+/* #container div{
+    background-image: url("C:\Users\gnitc\Desktop\boostraptemplate\images\charminar.jpg");
+   }
+
+   #container div{
+    background-image: url("C:\Users\gnitc\Desktop\boostraptemplate\images\lavanya.jpg");
+   } */
+
+   *{padding : 0; margin :0; box-sizing: border-box;}
+ body{ font-family:arial; font-size: 14px;}
+ a,li{
+display:inline-block;
+ }
+
+ 
+   
